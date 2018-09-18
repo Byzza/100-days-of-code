@@ -14,7 +14,7 @@ By putting this down, I'm making a committment to myself to do atleast an hour e
 The primary goal for this is to up skill myself with Angular and/or React.
 
 
-**Link to work:** [Calculator App](http://www.example.com)
-[100 Days of Code Challenge] (https://www.codingame.com/blog/100-days-of-code-challenge/)
+**Link to work:**:
+[100 Days of Code Challenge](https://www.codingame.com/blog/100-days-of-code-challenge/)
 [Free Code Camp - 100 Days of Code](https://medium.freecodecamp.org/join-the-100daysofcode-556ddb4579e4)
 [100 Days of Code](https://www.100daysofcode.com/connect/)
