@@ -15,6 +15,7 @@ The primary goal for this is to up skill myself with Angular and/or React.
 
 
 **Link to work:**:
-[100 Days of Code Challenge](https://www.codingame.com/blog/100-days-of-code-challenge/)
-[Free Code Camp - 100 Days of Code](https://medium.freecodecamp.org/join-the-100daysofcode-556ddb4579e4)
-[100 Days of Code](https://www.100daysofcode.com/connect/)
+* [100 Days of Code Challenge](https://www.codingame.com/blog/100-days-of-code-challenge/)
+* [Free Code Camp - 100 Days of Code](https://medium.freecodecamp.org/join-the-100daysofcode-556ddb4579e4)
+* [100 Days of Code](https://www.100daysofcode.com/connect/)
+* [100 Day of Code Log - Jason Down](https://github.com/jasondown/100-days-of-code/blob/master/log.md)
