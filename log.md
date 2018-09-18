@@ -1,30 +1,20 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
+### Day 0: Sept 18, 2018
 ##### (delete me or comment me out)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: 
+* High level research into Angular Drag and drop and resizing
+* Re-Introduced myself to the 100 Day Code Challenge
+* Setup 100 Day of Code Log
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** 
+I'm been wanting to commit myself to coding/learning every day now for probably the last few month since first hearing about the 100 Code Challenge, and while I've managed a few nights here and there, there has been nothing constant.
+By putting this down, I'm making a committment to myself to do atleast an hour every day.
+The primary goal for this is to up skill myself with Angular and/or React.
+
 
 **Link to work:** [Calculator App](http://www.example.com)
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+[100 Days of Code Challenge] (https://www.codingame.com/blog/100-days-of-code-challenge/)
+[Free Code Camp - 100 Days of Code](https://medium.freecodecamp.org/join-the-100daysofcode-556ddb4579e4)
+[100 Days of Code](https://www.100daysofcode.com/connect/)
