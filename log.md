@@ -1,7 +1,6 @@
 # 100 Days Of Code - Log
 
 ### Day 0: Sept 18, 2018
-##### (delete me or comment me out)
 
 **Today's Progress**: 
 * High level research into Angular Drag and drop and resizing
