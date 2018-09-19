@@ -23,6 +23,8 @@ The primary goal for this is to up skill myself with Angular and/or React.
 ### Day 1: 19 Sept 2018
 **Today's Progress**:
 * Angular Template Syntax
+- From https://angular.io/guide/template-syntax#property-binding--property-
+- To: https://angular.io/guide/template-syntax#two-way-binding---
 
 **Thoughts:**
 It was quite a long and tiring day today and I left my study/coding too late.  I only managed to get about 30min in before I was completely glossing over what I was reading.
